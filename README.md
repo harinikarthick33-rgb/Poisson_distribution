@@ -76,24 +76,7 @@ else:
  
 
 # Output : 
-```
-X P(X=x) Obs.Fr Exp.Fr xi
---------------------------
-0.00 0.010 0.00 0.10 0.10
-1.00 0.046 2.00 0.46 5.11
-2.00 0.106 1.00 1.06 0.00
-3.00 0.163 1.00 1.63 0.24
-4.00 0.188 1.00 1.88 0.41
-5.00 0.173 1.00 1.73 0.30
-6.00 0.132 1.00 1.32 0.08
-7.00 0.087 1.00 0.87 0.02
-8.00 0.050 1.00 0.50 0.50
-9.00 0.026 1.00 0.26 2.17
---------------------------
-Calculated value of Chi square is 8.94
-Table value of chi square at 1 level is 21.67
-The given data can be fitted in poisson Distribution at 1% LOS
-```
+![image](output2.jpeg)
 
 # Results
 
